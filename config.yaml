@@ -1,0 +1,19 @@
+baseURL: "https://purduearc.com"
+languageCode: "en-us"
+title: "Purdue ARC"
+pygmentsstyle: 'monokai'
+metaDataFormat: yaml
+sectionPagesMenu: "main"
+
+# Theme settings
+theme: novela
+paginate: 6
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+taxonomies:
+  author: authors

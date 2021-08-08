@@ -7,7 +7,7 @@ sectionPagesMenu: "main"
 
 # Theme settings
 theme: novela
-paginate: 6
+paginate: 2 
 social:
   twitter: "#"
   github: "#"
@@ -17,3 +17,4 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+  sponsor: sponsors 

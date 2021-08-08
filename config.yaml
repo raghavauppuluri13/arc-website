@@ -9,12 +9,10 @@ sectionPagesMenu: "main"
 theme: novela
 paginate: 2 
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  twitter: "https://twitter.com/purduerobotics"
+  github: "https://github.com/purdue-arc"
+  instagram: "https://www.instagram.com/purdue.arc"
+  linkedin: "https://www.linkedin.com/company/purdue-arc"
+  youtube: "https://www.youtube.com/channel/UCXr3FEZwfZ2gQgtgLHQkeBA"
 taxonomies:
   author: authors
-  sponsor: sponsors 
